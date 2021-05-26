@@ -1,5 +1,1 @@
--  Hi, I’m Sooraj Sunil
--  I’m interested in creating GUI using python and working on some projects
--  I’m currently learning Advanced python and c++
--  I’m looking to collaborate on projects including Python GUI
--  How to reach me ---> sooraj.namboothiry@gmail.com
+
